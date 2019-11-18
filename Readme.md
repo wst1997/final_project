@@ -22,6 +22,6 @@ Analysis Plan:
 
 Data:
 
-ftp://ftp.cdc.noaa.gov/Datasets/COBE2/sst.mon.ltm.1981-2010.nc
+(ftp://ftp.cdc.noaa.gov/Datasets/COBE2/sst.mon.ltm.1981-2010.nc)
 
-ftp://ftp.cdc.noaa.gov/Datasets/COBE2/icec.mon.ltm.1981-2010.nc
+(ftp://ftp.cdc.noaa.gov/Datasets/COBE2/icec.mon.ltm.1981-2010.nc)
