@@ -1,27 +1,27 @@
 Hypothesis:
 
-Sea ice cover is decreasing as sea surface temperature is increasing after 1990.
+Sea ice concentration has negative correlation with sea surface temperature from 1982 to 2019.
 
 Analysis Plan:
 
-1. make a line plot demonstrating the trend of mean sea surface temperature after 1990
+1. make a line plot demonstrating the anomalies of both sea surface temperature and sea ice concentration from 1982 to 2019
 
-2. make a line plot demonstrating the trend of mean sea ice cover after 1990
+2. make a plot demonstrating global sea surface temperature in 1982 and 2019
 
-3. make a line plot demonstrating the anomaly of sea surface temperature after 1990
+3. make a plot demonstrating global sea ice concentration in 1982 and 2019
 
-4. make a line plot demonstrating the anomaly of sea ice cover after 1990
+4. make a map plot demonstrating local sea surface temperature in 1982 and 2019 in special area for better reviewing
 
-5. combine the two plots above to compare the trends
+5. make a map plot demonstrating local sea ice concentration in 1982 and 2019 in special area for better reviewing
 
-6. make a map demonstrating sea ice cover distribution in 1990
+6. make a scatter plot with trendline demonstrating the correlation between sea surface temperature and sea ice concentration from 1982 to 2019
 
-7. make a map demonstrating sea ice cover distribution at present
 
-8. combine the two maps above to compare the distribution
+Data Resource:
 
-Data:
+1. Sea Surface Temperature: (https://www.esrl.noaa.gov/psd/thredds/fileServer/Datasets/noaa.ersst.v5/sst.mnmean.nc)
 
-(ftp://ftp.cdc.noaa.gov/Datasets/COBE2/sst.mon.ltm.1981-2010.nc)
+2. Sea Ice Concentration: (https://www.esrl.noaa.gov/psd/thredds/fileServer/Datasets/noaa.oisst.v2/icec.mnmean.nc)
 
-(ftp://ftp.cdc.noaa.gov/Datasets/COBE2/icec.mon.ltm.1981-2010.nc)
+Binder Link:
+
