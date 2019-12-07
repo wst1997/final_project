@@ -5,6 +5,7 @@ dependencies:
   - matplotlib
   - xarray
   - cartopy
+  - netcdf4
   - pip:
     - seaborn
     - cmocean
