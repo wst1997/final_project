@@ -25,4 +25,4 @@ Data Resource:
 
 Binder Link:
 
-(https://mybinder.org/v2/gh/wst1997/final_project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wst1997/final_project/master)
